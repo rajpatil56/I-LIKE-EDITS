@@ -1,0 +1,1190 @@
+{
+  "siteConfig": {
+    "brand": "i like edits 👍",
+    "domain": "https://pixelforge.app",
+    "titleSuffix": " | i like edits 👍",
+    "defaultLang": "en",
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "nl",
+      "ja",
+      "ko",
+      "tr",
+      "pl",
+      "id",
+      "ru",
+      "ar",
+      "hi",
+      "vi",
+      "sv",
+      "zh-cn",
+      "zh-tw",
+      "th",
+      "uk",
+      "el",
+      "bg",
+      "ca",
+      "ms",
+      "sw"
+    ],
+    "rtlLanguages": [
+      "ar"
+    ]
+  },
+  "trustSignals": {
+    "autoDelete": {
+      "claim": true,
+      "hours": 2,
+      "badge": "Files auto-deleted within 2 hours",
+      "short": "Auto-deleted in 2 hours",
+      "long": "Files you process are handled securely in your browser and never uploaded to our servers. Anything temporarily cached locally clears automatically within 2 hours, and you can clear it yourself any time.",
+      "manualDeleteButton": true
+    },
+    "https": {
+      "claim": true,
+      "badge": "Secure HTTPS connection",
+      "short": "HTTPS encrypted",
+      "long": "The app itself is served over an encrypted HTTPS connection, and because processing happens on your device, your images never travel over the network at all."
+    },
+    "iso27001": {
+      "claim": false,
+      "badge": "ISO 27001 certified",
+      "short": "ISO 27001",
+      "long": "Our information-security management follows the ISO 27001 standard."
+    },
+    "gdpr": {
+      "claim": false,
+      "badge": "GDPR compliant",
+      "short": "GDPR",
+      "long": "We process data in line with the GDPR and international data-protection regulations."
+    },
+    "noRegistration": {
+      "claim": true,
+      "badge": "No signup needed",
+      "short": "No signup"
+    },
+    "freeTier": {
+      "claim": true,
+      "badge": "Free to use",
+      "short": "Free"
+    },
+    "clientSide": {
+      "claim": true,
+      "badge": "100% in-browser processing",
+      "short": "Runs on your device",
+      "long": "Every tool on this site runs locally in your browser using the Canvas and WebAssembly APIs. Your photos are never uploaded anywhere."
+    }
+  },
+  "seoKeywords": {
+    "primaryTools": {
+      "compress-image": [
+        "compress image",
+        "image compressor",
+        "reduce image size",
+        "compress jpg",
+        "compress png",
+        "compress gif",
+        "compress svg"
+      ],
+      "resize-image": [
+        "resize image",
+        "bulk image resizer",
+        "resize by pixels",
+        "resize by percentage",
+        "resize jpg",
+        "resize png",
+        "resize gif",
+        "resize svg"
+      ],
+      "crop-image": [
+        "crop image",
+        "crop jpg",
+        "crop png",
+        "crop gif",
+        "image cropper"
+      ],
+      "convert-to-jpg": [
+        "convert to jpg",
+        "png to jpg",
+        "webp to jpg",
+        "heic to jpg",
+        "tiff to jpg",
+        "psd to jpg",
+        "raw to jpg",
+        "svg to jpg",
+        "gif to jpg"
+      ],
+      "jpg-to-image": [
+        "jpg to png",
+        "jpg to gif",
+        "animated gif maker"
+      ],
+      "photo-editor": [
+        "photo editor online",
+        "add text to photo",
+        "photo filters",
+        "photo frames",
+        "stickers"
+      ],
+      "upscale-image": [
+        "upscale image",
+        "ai image upscaler",
+        "enlarge image",
+        "increase image resolution"
+      ],
+      "remove-background": [
+        "remove background",
+        "background remover",
+        "transparent background",
+        "ai cutout"
+      ],
+      "images-to-pdf": [
+        "images to pdf",
+        "jpg to pdf",
+        "png to pdf",
+        "photo to pdf",
+        "image pdf converter"
+      ],
+      "watermark-image": [
+        "watermark image",
+        "add watermark",
+        "text watermark",
+        "logo watermark",
+        "batch watermark"
+      ],
+      "meme-generator": [
+        "meme generator",
+        "meme maker",
+        "caption meme",
+        "custom memes"
+      ],
+      "rotate-image": [
+        "rotate image",
+        "rotate jpg",
+        "rotate png",
+        "rotate gif",
+        "bulk rotate"
+      ],
+      "html-to-image": [
+        "html to image",
+        "html to jpg",
+        "html to svg",
+        "webpage to image"
+      ],
+      "blur-face": [
+        "blur face",
+        "pixelate face",
+        "blur license plate",
+        "anonymize photo"
+      ]
+    },
+    "formats": [
+      "JPG",
+      "PNG",
+      "SVG",
+      "WEBP",
+      "HEIC",
+      "GIF",
+      "TIFF",
+      "PSD",
+      "RAW",
+      "BMP",
+      "AVIF"
+    ],
+    "rawCameraFormats": {
+      "PEF": "Pentax",
+      "CR2": "Canon",
+      "CR3": "Canon",
+      "ORF": "Olympus",
+      "SR2": "Sony",
+      "ARW": "Sony",
+      "NEF": "Nikon",
+      "RAF": "Fujifilm",
+      "RW2": "Panasonic",
+      "DNG": "Adobe"
+    },
+    "modifiers": [
+      "free",
+      "online",
+      "bulk",
+      "batch",
+      "no signup",
+      "no watermark",
+      "without losing quality",
+      "in seconds",
+      "multiple images at once",
+      "to 100kb"
+    ],
+    "crawlSeedKeywords": [
+      "image",
+      "compress",
+      "resize",
+      "crop",
+      "convert",
+      "jpeg",
+      "png",
+      "gif",
+      "tiff",
+      "raw"
+    ]
+  },
+  "sitePages": {
+    "compress-image": {
+      "group": "compress",
+      "title": "Compress Images Online: Free Bulk Image Compressor",
+      "description": "Shrink JPG, PNG, SVG and GIF files in seconds without visible quality loss. Compress many images at once, free and with no signup.",
+      "heading": "Compress Images Online",
+      "sub": "Reduce JPG, PNG, SVG and GIF file sizes in bulk. Upload, compress and download in a few clicks — everything runs locally in your browser."
+    },
+    "resize-image": {
+      "group": "resize",
+      "title": "Resize Images Online: Bulk Resize by Pixels or %",
+      "description": "Resize JPG, PNG, SVG and GIF images by exact pixels or percentage. Batch resize photos online for free, no software or account needed.",
+      "heading": "Resize Images in Bulk",
+      "sub": "Set new dimensions by pixel or percent and resize a whole batch at once. Fast, free and processed entirely on your device."
+    },
+    "crop-image": {
+      "group": "crop",
+      "title": "Crop Images Online: Free JPG, PNG & GIF Cropper",
+      "description": "Crop JPG, PNG and GIF images with a visual editor or exact pixel values. Trim photos to the perfect frame in seconds, free.",
+      "heading": "Crop Images Online",
+      "sub": "Drag the crop box or type exact pixel coordinates to cut your image down to what matters. No signup, no watermark."
+    },
+    "convert-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert Images to JPG: PNG, WEBP, HEIC, RAW & More",
+      "description": "Convert PNG, GIF, TIFF, PSD, SVG, WEBP, HEIC or RAW images to JPG in bulk. Free online JPG converter with no registration.",
+      "heading": "Convert Images to JPG",
+      "sub": "Turn almost any image format into a universally compatible JPG. Batch convert PNG, WEBP, HEIC, TIFF, PSD, SVG and RAW files in one go."
+    },
+    "jpg-to-image": {
+      "group": "convert-from-jpg",
+      "title": "Convert JPG to PNG or GIF: Free Online Converter",
+      "description": "Convert JPG images to PNG or GIF, or merge several JPGs into an animated GIF. Quick, free and no software to install.",
+      "heading": "Convert from JPG",
+      "sub": "Change JPG photos into PNG or GIF, or pick several JPGs and stitch them into an animated GIF in seconds."
+    },
+    "photo-editor": {
+      "group": "photo-editor",
+      "title": "Free Online Photo Editor: Add Text, Effects & Stickers",
+      "description": "Edit photos online with text, filters, frames and stickers. A fast, free photo editor that works in your browser without registration.",
+      "heading": "Free Online Photo Editor",
+      "sub": "Add text, effects, frames and stickers to your pictures with simple tools. Nothing to install and no account required."
+    },
+    "upscale-image": {
+      "group": "upscale",
+      "title": "AI Image Upscaler: Enlarge Photos Without Quality Loss",
+      "description": "Upscale JPG and PNG images with AI to increase resolution while keeping detail sharp. Free online image enlarger, ready in seconds.",
+      "heading": "AI Image Upscaler",
+      "sub": "Enlarge low-resolution pictures and boost their pixel dimensions while preserving visual quality. Upload, upscale, download."
+    },
+    "remove-background": {
+      "group": "remove-bg",
+      "title": "Remove Image Background Online: Free AI Cutout Tool",
+      "description": "Remove backgrounds from photos automatically with AI. Detect the subject, cut it out cleanly and download a transparent PNG for free.",
+      "heading": "Remove Image Background",
+      "sub": "Let AI detect the subject and erase the background in one click. Get a clean transparent cutout ready for products, profiles and designs."
+    },
+    "watermark-image": {
+      "group": "watermark",
+      "title": "Watermark Images Online: Add Text or Logo in Bulk",
+      "description": "Add a text or image watermark to many photos at once. Control font, opacity and position to protect your pictures, free online.",
+      "heading": "Watermark Images in Bulk",
+      "sub": "Stamp your text or logo across a whole batch of images. Choose typography, transparency and placement to protect your work."
+    },
+    "meme-generator": {
+      "group": "meme",
+      "title": "Meme Generator: Make Custom Memes Online for Free",
+      "description": "Create memes online in seconds. Caption popular meme images or upload your own photo, add text and download. Free, no signup.",
+      "heading": "Free Online Meme Generator",
+      "sub": "Caption a template or upload your own picture and turn it into a shareable meme. Simple, quick and watermark-free."
+    },
+    "images-to-pdf": {
+      "group": "images-to-pdf",
+      "title": "Convert Images to PDF Online: Free JPG & PNG to PDF",
+      "description": "Combine JPG, PNG, WEBP and other images into a downloadable PDF. Each image gets its own page, processed privately in your browser.",
+      "heading": "Convert Images to PDF",
+      "sub": "Turn one or more pictures into a PDF, with each image fitted to its own page. Everything is processed on your device."
+    },
+    "rotate-image": {
+      "group": "rotate",
+      "title": "Rotate Images Online: Bulk Rotate JPG, PNG & GIF",
+      "description": "Rotate many JPG, PNG or GIF images at once. Fix sideways photos in bulk, or rotate only landscape or portrait pictures. Free.",
+      "heading": "Rotate Images in Bulk",
+      "sub": "Turn a whole batch of pictures at the same time, or limit the rotation to landscape or portrait images only."
+    },
+    "html-to-image": {
+      "group": "html-to-image",
+      "title": "HTML to Image Converter: Turn Any Webpage into JPG",
+      "description": "Convert HTML pages and URLs to JPG or SVG images online. Paste a web address and capture the page as an image in one click.",
+      "heading": "Convert HTML to Image",
+      "sub": "Paste an HTML snippet and capture it as a JPG or PNG image. Fast, free and with nothing to install."
+    },
+    "blur-face": {
+      "group": "blur-face",
+      "title": "Blur Faces in Photos: Anonymize & Pixelate Online",
+      "description": "Blur faces, license plates and sensitive details in photos online. Anonymize people automatically or blur areas by hand. Free tool.",
+      "heading": "Blur Faces in Photos",
+      "sub": "Hide faces, number plates and other private details in seconds. Blur automatically or paint the exact area you want to protect."
+    },
+    "compress-jpg": {
+      "group": "compress",
+      "title": "Compress JPG Images: Free Bulk JPG Compressor",
+      "description": "Reduce JPG file size online without visible quality loss. Compress many JPG files at once, free, no signup, auto-deleted in 2 hours.",
+      "heading": "Compress JPG Files",
+      "sub": "Smart quality tuning trims megabytes from photos while edges and skin tones stay clean. Upload a batch, compress, and download the results."
+    },
+    "compress-png": {
+      "group": "compress",
+      "title": "Compress PNG Images: Free Bulk PNG Compressor",
+      "description": "Reduce PNG file size online without visible quality loss. Compress many PNG files at once, free, no signup, auto-deleted in 2 hours.",
+      "heading": "Compress PNG Files",
+      "sub": "Optimization keeps transparency intact while cutting the file weight of graphics and screenshots. Upload a batch, compress, and download the results."
+    },
+    "compress-gif": {
+      "group": "compress",
+      "title": "Compress GIF Images: Free Bulk GIF Compressor",
+      "description": "Reduce GIF file size online without visible quality loss. Compress many GIF files at once, free, no signup, auto-deleted in 2 hours.",
+      "heading": "Compress GIF Files",
+      "sub": "Animation, frame timing and looping are preserved while the file gets noticeably lighter. Upload a batch, compress, and download the results."
+    },
+    "compress-svg": {
+      "group": "compress",
+      "title": "Compress SVG Images: Free Bulk SVG Compressor",
+      "description": "Reduce SVG file size online without visible quality loss. Compress many SVG files at once, free, no signup, auto-deleted in 2 hours.",
+      "heading": "Compress SVG Files",
+      "sub": "Vector markup is minified so graphics stay infinitely scalable at a fraction of the size. Upload a batch, compress, and download the results."
+    },
+    "compress-webp": {
+      "group": "compress",
+      "title": "Compress WEBP Images: Free Bulk WEBP Compressor",
+      "description": "Reduce WEBP file size online without visible quality loss. Compress many WEBP files at once, free, no signup, auto-deleted in 2 hours.",
+      "heading": "Compress WEBP Files",
+      "sub": "Re-encode WebP files to the smallest size that still looks identical on screen. Upload a batch, compress, and download the results."
+    },
+    "resize-jpg": {
+      "group": "resize",
+      "title": "Resize JPG Images Online: Free Bulk JPG Resizer",
+      "description": "Resize JPG images in seconds by pixels or percent. Batch change JPG dimensions online for free with no software to install.",
+      "heading": "Resize JPG Images",
+      "sub": "Change dimensions by pixel or percentage and keep photo quality high for web, print or social. Process many files at once, all in your browser."
+    },
+    "resize-png": {
+      "group": "resize",
+      "title": "Resize PNG Images Online: Free Bulk PNG Resizer",
+      "description": "Resize PNG images in seconds by pixels or percent. Batch change PNG dimensions online for free with no software to install.",
+      "heading": "Resize PNG Images",
+      "sub": "Resize PNGs with transparency preserved, ideal for logos, icons and interface assets. Process many files at once, all in your browser."
+    },
+    "resize-gif": {
+      "group": "resize",
+      "title": "Resize GIF Images Online: Free Bulk GIF Resizer",
+      "description": "Resize GIF images in seconds by pixels or percent. Batch change GIF dimensions online for free with no software to install.",
+      "heading": "Resize GIF Images",
+      "sub": "Resize animated GIFs while every frame and the loop timing stay intact. Process many files at once, all in your browser."
+    },
+    "resize-svg": {
+      "group": "resize",
+      "title": "Resize SVG Images Online: Free Bulk SVG Resizer",
+      "description": "Resize SVG images in seconds by pixels or percent. Batch change SVG dimensions online for free with no software to install.",
+      "heading": "Resize SVG Images",
+      "sub": "Set new width and height on vector files and keep them crisp at any display size. Process many files at once, all in your browser."
+    },
+    "resize-webp": {
+      "group": "resize",
+      "title": "Resize WEBP Images Online: Free Bulk WEBP Resizer",
+      "description": "Resize WEBP images in seconds by pixels or percent. Batch change WEBP dimensions online for free with no software to install.",
+      "heading": "Resize WEBP Images",
+      "sub": "Resize modern WebP images for faster pages without re-exporting from a design tool. Process many files at once, all in your browser."
+    },
+    "crop-jpg": {
+      "group": "crop",
+      "title": "Crop JPG Images Online: Free JPG Cropper",
+      "description": "Crop JPG images online by dragging a box or entering pixel values. Fast, free JPG cropping with no signup and no watermark.",
+      "heading": "Crop JPG Images",
+      "sub": "Select the area you want to keep and trim distracting edges from your photos. Processed locally, nothing is ever uploaded."
+    },
+    "crop-png": {
+      "group": "crop",
+      "title": "Crop PNG Images Online: Free PNG Cropper",
+      "description": "Crop PNG images online by dragging a box or entering pixel values. Fast, free PNG cropping with no signup and no watermark.",
+      "heading": "Crop PNG Images",
+      "sub": "Crop screenshots and graphics precisely while transparent pixels stay untouched. Processed locally, nothing is ever uploaded."
+    },
+    "crop-gif": {
+      "group": "crop",
+      "title": "Crop GIF Images Online: Free GIF Cropper",
+      "description": "Crop GIF images online by dragging a box or entering pixel values. Fast, free GIF cropping with no signup and no watermark.",
+      "heading": "Crop GIF Images",
+      "sub": "Crop animated GIFs by selecting one area that applies to every frame. Processed locally, nothing is ever uploaded."
+    },
+    "crop-webp": {
+      "group": "crop",
+      "title": "Crop WEBP Images Online: Free WEBP Cropper",
+      "description": "Crop WEBP images online by dragging a box or entering pixel values. Fast, free WEBP cropping with no signup and no watermark.",
+      "heading": "Crop WEBP Images",
+      "sub": "Crop WebP images to any rectangle with a visual selector or exact pixel values. Processed locally, nothing is ever uploaded."
+    },
+    "rotate-jpg": {
+      "group": "rotate",
+      "title": "Rotate JPG Images Online: Free Bulk JPG Rotator",
+      "description": "Rotate JPG images in bulk, 90 or 180 degrees, or only landscape or portrait files. Free online JPG rotator, no signup needed.",
+      "heading": "Rotate JPG Images",
+      "sub": "Fix sideways phone photos and scanned pages by rotating whole batches in one pass. Upload many files and rotate them together."
+    },
+    "rotate-png": {
+      "group": "rotate",
+      "title": "Rotate PNG Images Online: Free Bulk PNG Rotator",
+      "description": "Rotate PNG images in bulk, 90 or 180 degrees, or only landscape or portrait files. Free online PNG rotator, no signup needed.",
+      "heading": "Rotate PNG Images",
+      "sub": "Rotate PNG screenshots and graphics without losing transparency. Upload many files and rotate them together."
+    },
+    "rotate-gif": {
+      "group": "rotate",
+      "title": "Rotate GIF Images Online: Free Bulk GIF Rotator",
+      "description": "Rotate GIF images in bulk, 90 or 180 degrees, or only landscape or portrait files. Free online GIF rotator, no signup needed.",
+      "heading": "Rotate GIF Images",
+      "sub": "Rotate animated GIFs while the animation keeps playing as before. Upload many files and rotate them together."
+    },
+    "rotate-webp": {
+      "group": "rotate",
+      "title": "Rotate WEBP Images Online: Free Bulk WEBP Rotator",
+      "description": "Rotate WEBP images in bulk, 90 or 180 degrees, or only landscape or portrait files. Free online WEBP rotator, no signup needed.",
+      "heading": "Rotate WEBP Images",
+      "sub": "Straighten WebP images quickly and download them in the same modern format. Upload many files and rotate them together."
+    },
+    "png-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert PNG to JPG: Free Online PNG to JPG Converter",
+      "description": "Convert PNG to JPG online in seconds. Bulk PNG to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert PNG to JPG",
+      "sub": "Flatten PNGs into lightweight JPGs that load faster and upload anywhere. Batch upload is supported and nothing leaves your device."
+    },
+    "webp-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert WEBP to JPG: Free Online WEBP to JPG Converter",
+      "description": "Convert WEBP to JPG online in seconds. Bulk WEBP to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert WEBP to JPG",
+      "sub": "Turn WebP files into widely compatible JPGs for editors, forms and older apps. Batch upload is supported and nothing leaves your device."
+    },
+    "heic-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert HEIC to JPG: Free Online HEIC to JPG Converter",
+      "description": "Convert HEIC to JPG online in seconds. Bulk HEIC to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert HEIC to JPG",
+      "sub": "Convert iPhone HEIC photos to JPG so they open on Windows, Android and every website. Batch upload is supported and nothing leaves your device."
+    },
+    "gif-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert GIF to JPG: Free Online GIF to JPG Converter",
+      "description": "Convert GIF to JPG online in seconds. Bulk GIF to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert GIF to JPG",
+      "sub": "Pull a GIF's first frame out as a JPG image. Batch upload is supported and nothing leaves your device."
+    },
+    "svg-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert SVG to JPG: Free Online SVG to JPG Converter",
+      "description": "Convert SVG to JPG online in seconds. Bulk SVG to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert SVG to JPG",
+      "sub": "Rasterize SVG vectors into JPGs at the pixel size you need. Batch upload is supported and nothing leaves your device."
+    },
+    "tiff-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert TIFF to JPG: Free Online TIFF to JPG Converter",
+      "description": "Convert TIFF to JPG online in seconds. Bulk TIFF to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert TIFF to JPG",
+      "sub": "Shrink bulky TIFF scans and print files into easy-to-share JPGs. Batch upload is supported and nothing leaves your device."
+    },
+    "psd-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert PSD to JPG: Free Online PSD to JPG Converter",
+      "description": "Convert PSD to JPG online in seconds. Bulk PSD to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert PSD to JPG",
+      "sub": "Export Photoshop PSD files to flat JPGs without opening Photoshop. Batch upload is supported and nothing leaves your device."
+    },
+    "raw-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert RAW to JPG: Free Online RAW to JPG Converter",
+      "description": "Convert RAW to JPG online in seconds. Bulk RAW to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert RAW to JPG",
+      "sub": "Develop RAW camera files into ready-to-share JPGs in bulk. Batch upload is supported and nothing leaves your device."
+    },
+    "bmp-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert BMP to JPG: Free Online BMP to JPG Converter",
+      "description": "Convert BMP to JPG online in seconds. Bulk BMP to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert BMP to JPG",
+      "sub": "Compress oversized BMP bitmaps into compact JPG files. Batch upload is supported and nothing leaves your device."
+    },
+    "avif-to-jpg": {
+      "group": "convert-jpg",
+      "title": "Convert AVIF to JPG: Free Online AVIF to JPG Converter",
+      "description": "Convert AVIF to JPG online in seconds. Bulk AVIF to JPG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert AVIF to JPG",
+      "sub": "Convert AVIF images into JPGs that work in any viewer or editor. Batch upload is supported and nothing leaves your device."
+    },
+    "pef-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Pentax PEF to JPG: Free Online RAW Converter",
+      "description": "Convert Pentax PEF RAW photos to JPG online in bulk. Free PEF to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert PEF to JPG",
+      "sub": "Turn RAW pictures shot on Pentax cameras into JPG images ready for sharing. Upload several PEF files and convert them together."
+    },
+    "cr2-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Canon CR2 to JPG: Free Online RAW Converter",
+      "description": "Convert Canon CR2 RAW photos to JPG online in bulk. Free CR2 to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert CR2 to JPG",
+      "sub": "Turn RAW pictures shot on Canon cameras into JPG images ready for sharing. Upload several CR2 files and convert them together."
+    },
+    "cr3-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Canon CR3 to JPG: Free Online RAW Converter",
+      "description": "Convert Canon CR3 RAW photos to JPG online in bulk. Free CR3 to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert CR3 to JPG",
+      "sub": "Turn RAW pictures shot on Canon cameras into JPG images ready for sharing. Upload several CR3 files and convert them together."
+    },
+    "orf-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Olympus ORF to JPG: Free Online RAW Converter",
+      "description": "Convert Olympus ORF RAW photos to JPG online in bulk. Free ORF to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert ORF to JPG",
+      "sub": "Turn RAW pictures shot on Olympus cameras into JPG images ready for sharing. Upload several ORF files and convert them together."
+    },
+    "sr2-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Sony SR2 to JPG: Free Online RAW Converter",
+      "description": "Convert Sony SR2 RAW photos to JPG online in bulk. Free SR2 to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert SR2 to JPG",
+      "sub": "Turn RAW pictures shot on Sony cameras into JPG images ready for sharing. Upload several SR2 files and convert them together."
+    },
+    "arw-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Sony ARW to JPG: Free Online RAW Converter",
+      "description": "Convert Sony ARW RAW photos to JPG online in bulk. Free ARW to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert ARW to JPG",
+      "sub": "Turn RAW pictures shot on Sony cameras into JPG images ready for sharing. Upload several ARW files and convert them together."
+    },
+    "nef-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Nikon NEF to JPG: Free Online RAW Converter",
+      "description": "Convert Nikon NEF RAW photos to JPG online in bulk. Free NEF to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert NEF to JPG",
+      "sub": "Turn RAW pictures shot on Nikon cameras into JPG images ready for sharing. Upload several NEF files and convert them together."
+    },
+    "raf-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Fujifilm RAF to JPG: Free Online RAW Converter",
+      "description": "Convert Fujifilm RAF RAW photos to JPG online in bulk. Free RAF to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert RAF to JPG",
+      "sub": "Turn RAW pictures shot on Fujifilm cameras into JPG images ready for sharing. Upload several RAF files and convert them together."
+    },
+    "rw2-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert Panasonic RW2 to JPG: Free Online RAW Converter",
+      "description": "Convert Panasonic RW2 RAW photos to JPG online in bulk. Free RW2 to JPG converter, no signup, processed locally in your browser.",
+      "heading": "Convert RW2 to JPG",
+      "sub": "Turn RAW pictures shot on Panasonic cameras into JPG images ready for sharing. Upload several RW2 files and convert them together."
+    },
+    "dng-to-jpg": {
+      "group": "convert-raw",
+      "title": "Convert DNG to JPG: Free Online Adobe DNG Converter",
+      "description": "Convert Adobe DNG raw files to JPG online in bulk. Free DNG to JPG converter with no signup, processed locally in your browser.",
+      "heading": "Convert DNG to JPG",
+      "sub": "Turn universal DNG raw files into JPGs you can share, print or edit anywhere. Batch upload and fully local processing included."
+    },
+    "jpg-to-png": {
+      "group": "convert-png",
+      "title": "Convert JPG to PNG: Free Online JPG to PNG Converter",
+      "description": "Convert JPG to PNG online in seconds. Bulk JPG to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert JPG to PNG",
+      "sub": "Change JPG photos to PNG for lossless editing and transparency-ready layouts. Batch upload is supported and nothing leaves your device."
+    },
+    "webp-to-png": {
+      "group": "convert-png",
+      "title": "Convert WEBP to PNG: Free Online WEBP to PNG Converter",
+      "description": "Convert WEBP to PNG online in seconds. Bulk WEBP to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert WEBP to PNG",
+      "sub": "Convert WebP images to PNG for software that does not support the WebP format yet. Batch upload is supported and nothing leaves your device."
+    },
+    "heic-to-png": {
+      "group": "convert-png",
+      "title": "Convert HEIC to PNG: Free Online HEIC to PNG Converter",
+      "description": "Convert HEIC to PNG online in seconds. Bulk HEIC to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert HEIC to PNG",
+      "sub": "Convert HEIC photos from iPhone into PNG files that open on any device. Batch upload is supported and nothing leaves your device."
+    },
+    "gif-to-png": {
+      "group": "convert-png",
+      "title": "Convert GIF to PNG: Free Online GIF to PNG Converter",
+      "description": "Convert GIF to PNG online in seconds. Bulk GIF to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert GIF to PNG",
+      "sub": "Save a GIF's first frame as a crisp PNG image. Batch upload is supported and nothing leaves your device."
+    },
+    "svg-to-png": {
+      "group": "convert-png",
+      "title": "Convert SVG to PNG: Free Online SVG to PNG Converter",
+      "description": "Convert SVG to PNG online in seconds. Bulk SVG to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert SVG to PNG",
+      "sub": "Render SVG vectors as PNG images at the resolution you choose. Batch upload is supported and nothing leaves your device."
+    },
+    "tiff-to-png": {
+      "group": "convert-png",
+      "title": "Convert TIFF to PNG: Free Online TIFF to PNG Converter",
+      "description": "Convert TIFF to PNG online in seconds. Bulk TIFF to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert TIFF to PNG",
+      "sub": "Convert TIFF files to PNG for lighter, web-friendly graphics. Batch upload is supported and nothing leaves your device."
+    },
+    "bmp-to-png": {
+      "group": "convert-png",
+      "title": "Convert BMP to PNG: Free Online BMP to PNG Converter",
+      "description": "Convert BMP to PNG online in seconds. Bulk BMP to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert BMP to PNG",
+      "sub": "Convert BMP bitmaps to compact PNG images without losing detail. Batch upload is supported and nothing leaves your device."
+    },
+    "avif-to-png": {
+      "group": "convert-png",
+      "title": "Convert AVIF to PNG: Free Online AVIF to PNG Converter",
+      "description": "Convert AVIF to PNG online in seconds. Bulk AVIF to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert AVIF to PNG",
+      "sub": "Turn AVIF images into PNGs for editors that cannot read AVIF. Batch upload is supported and nothing leaves your device."
+    },
+    "psd-to-png": {
+      "group": "convert-png",
+      "title": "Convert PSD to PNG: Free Online PSD to PNG Converter",
+      "description": "Convert PSD to PNG online in seconds. Bulk PSD to PNG conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert PSD to PNG",
+      "sub": "Export Photoshop PSD artwork to PNG while keeping transparent areas. Batch upload is supported and nothing leaves your device."
+    },
+    "jpg-to-webp": {
+      "group": "convert-webp",
+      "title": "Convert JPG to WEBP: Free Online JPG to WEBP Converter",
+      "description": "Convert JPG to WEBP online in seconds. Bulk JPG to WEBP conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert JPG to WEBP",
+      "sub": "Convert JPG images to WebP to cut page weight and speed up your website. Batch upload is supported and nothing leaves your device."
+    },
+    "png-to-webp": {
+      "group": "convert-webp",
+      "title": "Convert PNG to WEBP: Free Online PNG to WEBP Converter",
+      "description": "Convert PNG to WEBP online in seconds. Bulk PNG to WEBP conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert PNG to WEBP",
+      "sub": "Convert PNG graphics to WebP for much smaller files with transparency kept. Batch upload is supported and nothing leaves your device."
+    },
+    "gif-to-webp": {
+      "group": "convert-webp",
+      "title": "Convert GIF to WEBP: Free Online GIF to WEBP Converter",
+      "description": "Convert GIF to WEBP online in seconds. Bulk GIF to WEBP conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert GIF to WEBP",
+      "sub": "Convert GIFs to WebP for smaller images. Batch upload is supported and nothing leaves your device."
+    },
+    "heic-to-webp": {
+      "group": "convert-webp",
+      "title": "Convert HEIC to WEBP: Free Online HEIC to WEBP Converter",
+      "description": "Convert HEIC to WEBP online in seconds. Bulk HEIC to WEBP conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert HEIC to WEBP",
+      "sub": "Convert iPhone HEIC photos to WebP, ready for the web. Batch upload is supported and nothing leaves your device."
+    },
+    "jpg-to-gif": {
+      "group": "convert-gif",
+      "title": "Convert JPG to GIF: Free Online JPG to GIF Converter",
+      "description": "Convert JPG to GIF online in seconds. Bulk JPG to GIF conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert JPG to GIF",
+      "sub": "Combine several JPGs into one animated GIF, or save each as a separate GIF. Batch upload is supported and nothing leaves your device."
+    },
+    "png-to-gif": {
+      "group": "convert-gif",
+      "title": "Convert PNG to GIF: Free Online PNG to GIF Converter",
+      "description": "Convert PNG to GIF online in seconds. Bulk PNG to GIF conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert PNG to GIF",
+      "sub": "Convert PNG images to GIF or stitch a sequence into an animated GIF. Batch upload is supported and nothing leaves your device."
+    },
+    "jpg-to-avif": {
+      "group": "convert-avif",
+      "title": "Convert JPG to AVIF: Free Online JPG to AVIF Converter",
+      "description": "Convert JPG to AVIF online in seconds. Bulk JPG to AVIF conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert JPG to AVIF",
+      "sub": "Convert JPG photos to AVIF for next-generation compression. Batch upload is supported and nothing leaves your device."
+    },
+    "png-to-avif": {
+      "group": "convert-avif",
+      "title": "Convert PNG to AVIF: Free Online PNG to AVIF Converter",
+      "description": "Convert PNG to AVIF online in seconds. Bulk PNG to AVIF conversion, free, no signup, processed locally in your browser.",
+      "heading": "Convert PNG to AVIF",
+      "sub": "Convert PNG graphics to AVIF and keep quality with far smaller files. Batch upload is supported and nothing leaves your device."
+    },
+    "html-to-jpg": {
+      "group": "html-to-image",
+      "title": "HTML to JPG Converter: Capture Any Webpage as JPG",
+      "description": "Convert HTML pages to JPG images for free. Paste a URL, capture the full page and download a JPG. Easy, fast and no signup.",
+      "heading": "Convert HTML to JPG",
+      "sub": "Turn an HTML snippet into a shareable JPG image with one click. Ideal for archives, reports and mockups."
+    },
+    "html-to-svg": {
+      "group": "html-to-image",
+      "title": "HTML to SVG Converter: Turn Webpages into Vectors",
+      "description": "Convert HTML pages to SVG vector files online for free. Paste a URL and transform the page into scalable SVG in seconds.",
+      "heading": "Convert HTML to SVG",
+      "sub": "Capture an HTML snippet as an SVG wrapper that scales cleanly for presentations and design work."
+    },
+    "html-to-png": {
+      "group": "html-to-image",
+      "title": "HTML to PNG Converter: Save Web Pages as PNG Images",
+      "description": "Convert any HTML page or URL to a PNG image online. Capture crisp full-page screenshots for free, with no software to install.",
+      "heading": "Convert HTML to PNG",
+      "sub": "Create a sharp PNG snapshot of any HTML snippet. Great for documentation, bug reports and portfolios."
+    },
+    "webpage-to-image": {
+      "group": "html-to-image",
+      "title": "Webpage to Image: Capture a Full-Page Screenshot Online",
+      "description": "Turn any website into an image online. Paste a URL and get a full-page screenshot as JPG or SVG in seconds. Free and fast.",
+      "heading": "Convert a Webpage to an Image",
+      "sub": "Paste the markup of a page and save it as a picture. No browser extension, no installs, no account."
+    },
+    "remove-background-from-photo": {
+      "group": "remove-bg",
+      "title": "Remove Background from Photo: Free Online Photo Cutout",
+      "description": "Cut out the subject of any photo and remove the background automatically. Download a clean transparent PNG for free, no signup.",
+      "heading": "Remove Background from a Photo",
+      "sub": "Upload a photo and let an on-device AI model separate the subject from its backdrop in seconds."
+    },
+    "remove-background-from-product-images": {
+      "group": "remove-bg",
+      "title": "Remove Background from Product Images for Ecommerce",
+      "description": "Create clean product photos by removing busy backgrounds with AI. Ideal for online stores and marketplaces. Free to try online.",
+      "heading": "Remove Product Photo Backgrounds",
+      "sub": "Give every product a consistent, distraction-free look. Cut out items cleanly and place them on white or any color."
+    },
+    "make-image-background-transparent": {
+      "group": "remove-bg",
+      "title": "Make Image Background Transparent: Free PNG Maker",
+      "description": "Make any image background transparent online. AI detects the subject and exports a transparent PNG you can use anywhere. Free.",
+      "heading": "Make an Image Background Transparent",
+      "sub": "Erase the backdrop and export a transparent PNG for logos, stickers, slides and layered designs."
+    },
+    "remove-white-background": {
+      "group": "remove-bg",
+      "title": "Remove White Background from Images Online for Free",
+      "description": "Remove white backgrounds from logos, products and graphics in one click. Download a transparent PNG instantly, with no signup.",
+      "heading": "Remove a White Background",
+      "sub": "Strip out plain white backdrops and keep only the subject. Perfect for logos, signatures and catalog images."
+    },
+    "remove-background-from-logo": {
+      "group": "remove-bg",
+      "title": "Remove Background from Logo: Transparent Logo Maker",
+      "description": "Remove the background from your logo and save a transparent PNG. A quick free tool to make logos work on any color.",
+      "heading": "Remove Background from a Logo",
+      "sub": "Make your logo usable on websites, slides and merchandise by cutting out the solid backdrop automatically."
+    },
+    "remove-background-from-portrait": {
+      "group": "remove-bg",
+      "title": "Remove Background from Portrait: Profile Photo Cutout",
+      "description": "Remove the background from portraits and profile pictures with AI. Get a clean cutout for headshots, IDs and avatars, for free.",
+      "heading": "Remove Background from a Portrait",
+      "sub": "Isolate people from cluttered backgrounds to create polished headshots and profile pictures in seconds."
+    },
+    "upscale-png": {
+      "group": "upscale",
+      "title": "Upscale PNG Images: Enlarge PNGs with AI Online",
+      "description": "Increase PNG resolution with AI upscaling while keeping edges and transparency clean. Free online PNG enlarger, no signup required.",
+      "heading": "Upscale PNG Images",
+      "sub": "Enlarge logos, illustrations and screenshots without the blocky, blurry look of simple stretching."
+    },
+    "upscale-jpg": {
+      "group": "upscale",
+      "title": "Upscale JPG Images: Increase Photo Resolution Online",
+      "description": "Enlarge JPG photos and increase their resolution using AI. Get sharper, bigger pictures in seconds with a free online upscaler.",
+      "heading": "Upscale JPG Photos",
+      "sub": "Boost the pixel dimensions of your photos and keep faces, textures and details looking natural."
+    },
+    "enhance-image-resolution": {
+      "group": "upscale",
+      "title": "Enhance Image Resolution Online: Free AI Image Enhancer",
+      "description": "Improve image resolution with an AI enhancer. Turn small, soft pictures into larger, clearer images online, free and in seconds.",
+      "heading": "Enhance Image Resolution",
+      "sub": "Give small or soft pictures a resolution boost for print, presentations and high-density screens."
+    },
+    "increase-image-size-without-losing-quality": {
+      "group": "upscale",
+      "title": "Increase Image Size Without Losing Quality (Free)",
+      "description": "Make images bigger without making them blurry. AI upscaling adds detail as it enlarges JPG and PNG files, free and online.",
+      "heading": "Increase Image Size Without Losing Quality",
+      "sub": "Stretching pixels makes pictures fuzzy. Smart upscaling rebuilds detail so enlarged images stay clear."
+    },
+    "upscale-low-resolution-photo": {
+      "group": "upscale",
+      "title": "Upscale Low-Resolution Photos: Fix Small, Blurry Images",
+      "description": "Rescue low-resolution photos by enlarging them with AI. Recover clarity in old, small or compressed pictures. Free online tool.",
+      "heading": "Upscale Low-Resolution Photos",
+      "sub": "Breathe new life into old, small or heavily compressed pictures by enlarging them with smart processing."
+    },
+    "watermark-jpg": {
+      "group": "watermark",
+      "title": "Watermark JPG Images: Add Text or Logo to Photos",
+      "description": "Add a text or logo watermark to JPG photos in bulk. Choose font, opacity and position online for free, with no signup needed.",
+      "heading": "Watermark JPG Images",
+      "sub": "Protect your photography by stamping every JPG with your name or logo, placed exactly where you want it."
+    },
+    "watermark-png": {
+      "group": "watermark",
+      "title": "Watermark PNG Images: Stamp Text or Logos Online",
+      "description": "Add watermarks to PNG images with text or a logo overlay. Adjust transparency and placement and batch process for free online.",
+      "heading": "Watermark PNG Images",
+      "sub": "Brand your PNG graphics and screenshots with a subtle overlay that keeps your content recognizable."
+    },
+    "add-text-watermark": {
+      "group": "watermark",
+      "title": "Add Text Watermark to Photos Online: Free & Fast",
+      "description": "Type your own text and stamp it across photos as a watermark. Choose typeface, size, color and transparency. Free online tool.",
+      "heading": "Add a Text Watermark",
+      "sub": "Write a name, copyright line or website address and apply it to one image or hundreds at a time."
+    },
+    "add-logo-watermark": {
+      "group": "watermark",
+      "title": "Add Logo Watermark to Images: Batch Overlay Online",
+      "description": "Overlay your logo on many images at once. Control size, opacity and position to brand photos quickly, free and with no signup.",
+      "heading": "Add a Logo Watermark",
+      "sub": "Upload your logo once and stamp it on a whole folder of pictures in a single run."
+    },
+    "watermark-photos-in-bulk": {
+      "group": "watermark",
+      "title": "Watermark Photos in Bulk: Protect Hundreds of Images",
+      "description": "Batch watermark photos in a single step. Apply the same text or logo to a whole gallery, free online with no software to install.",
+      "heading": "Watermark Photos in Bulk",
+      "sub": "Save hours by applying the same watermark settings to your whole gallery instead of editing images one by one."
+    },
+    "meme-maker": {
+      "group": "meme",
+      "title": "Meme Maker: Create Funny Memes Online for Free",
+      "description": "Make memes in seconds with our free online meme maker. Add top and bottom text to any image and download it instantly.",
+      "heading": "Free Meme Maker",
+      "sub": "Pick an image, type your caption and share. Making a meme has never been this quick or this free."
+    },
+    "caption-image": {
+      "group": "meme",
+      "title": "Caption an Image Online: Add Text to Pictures Fast",
+      "description": "Add a caption to any picture online. Type your text, position it and download the captioned image for free, without registration.",
+      "heading": "Caption an Image",
+      "sub": "Add bold, readable captions to photos for memes, reactions and posts. Everything runs right in your browser."
+    },
+    "make-meme-from-photo": {
+      "group": "meme",
+      "title": "Make a Meme from Your Own Photo: Custom Meme Creator",
+      "description": "Upload your own picture and turn it into a custom meme. Add funny text, adjust style and download in one click. Free online.",
+      "heading": "Turn Your Photo into a Meme",
+      "sub": "Use a photo from your camera roll as the template, add your punchline and share it with friends."
+    },
+    "custom-meme-generator": {
+      "group": "meme",
+      "title": "Custom Meme Generator: Design Your Own Memes Online",
+      "description": "Design custom memes with your own images and text styling. A free meme generator that needs no signup and adds no watermark.",
+      "heading": "Custom Meme Generator",
+      "sub": "Control the font, size and placement of your text to create memes that look exactly the way you imagined."
+    },
+    "blur-license-plate": {
+      "group": "blur-face",
+      "title": "Blur License Plates in Photos: Hide Number Plates Online",
+      "description": "Blur vehicle license plates in photos to protect privacy. Cover number plates automatically or by hand, free online tool.",
+      "heading": "Blur License Plates",
+      "sub": "Hide number plates before you post car photos or street pictures, with simple blur and pixelate options."
+    },
+    "pixelate-face": {
+      "group": "blur-face",
+      "title": "Pixelate Faces in Photos Online: Free Face Pixelator",
+      "description": "Pixelate faces in images online to anonymize people. Choose the area, set the strength and download the protected photo. Free.",
+      "heading": "Pixelate Faces in Photos",
+      "sub": "Replace identifiable faces with a pixel mosaic so people stay anonymous in the pictures you share."
+    },
+    "anonymize-photo": {
+      "group": "blur-face",
+      "title": "Anonymize Photos Online: Hide Faces & Private Details",
+      "description": "Anonymize photos by blurring faces and sensitive details. Protect identities before sharing images, free and secure online.",
+      "heading": "Anonymize Your Photos",
+      "sub": "Remove identifying information from pictures in a few clicks before publishing, reporting or sharing them."
+    },
+    "blur-faces-in-group-photo": {
+      "group": "blur-face",
+      "title": "Blur Faces in Group Photos: Hide Selected People",
+      "description": "Blur one or many faces in a group photo. Detect everyone automatically, then choose who to hide. Free online face blur tool.",
+      "heading": "Blur Faces in a Group Photo",
+      "sub": "Paint over each face in a crowd shot and blur only the people who should stay private."
+    },
+    "blur-sensitive-information": {
+      "group": "blur-face",
+      "title": "Blur Sensitive Information in Images: Redact Online",
+      "description": "Blur names, numbers and private details in images and screenshots. Draw over any area to redact it. Free and easy to use online.",
+      "heading": "Blur Sensitive Information",
+      "sub": "Cover account numbers, addresses and personal details in screenshots and documents before you share them."
+    },
+    "add-text-to-photo": {
+      "group": "photo-editor",
+      "title": "Add Text to Photos Online: Free Photo Text Editor",
+      "description": "Add text to photos with custom fonts, colors and sizes. A free online editor that works in your browser without registration.",
+      "heading": "Add Text to Photos",
+      "sub": "Write captions, quotes or titles directly on your pictures and move them wherever they look best."
+    },
+    "add-stickers-to-photo": {
+      "group": "photo-editor",
+      "title": "Add Stickers to Photos Online: Free Sticker Editor",
+      "description": "Decorate your photos with fun stickers online. Drag, resize and place stickers anywhere, free and with no account needed.",
+      "heading": "Add Stickers to Photos",
+      "sub": "Spice up your pictures with playful stickers, then resize and position each one with a drag."
+    },
+    "photo-frames-online": {
+      "group": "photo-editor",
+      "title": "Add Frames to Photos Online: Free Photo Frame Maker",
+      "description": "Put a frame around your photos online. Choose a border style, apply it in seconds and download the result for free.",
+      "heading": "Add Frames to Your Photos",
+      "sub": "Give your pictures a finished look with clean borders and decorative frames in a few clicks."
+    },
+    "photo-effects-and-filters": {
+      "group": "photo-editor",
+      "title": "Photo Effects & Filters Online: Free Image Filter Editor",
+      "description": "Apply effects and filters to your photos online. Adjust the look of any picture in seconds with a free browser-based editor.",
+      "heading": "Photo Effects and Filters",
+      "sub": "Change the mood of a picture with one-click filters and effects, no complicated software required."
+    },
+    "edit-photo-without-registration": {
+      "group": "photo-editor",
+      "title": "Edit Photos Online Without Registration: Free Editor",
+      "description": "Edit photos online with no signup. Add text, filters, frames and stickers instantly in a free, browser-based photo editor.",
+      "heading": "Edit Photos Without Registering",
+      "sub": "Open the editor, make your changes and download. No account, no email and no installation needed."
+    },
+    "compress-image-to-20kb": {
+      "group": "compress",
+      "title": "Compress Image to 20KB: Reduce Photo Size Online",
+      "description": "Compress JPG, PNG or GIF images to 20KB or less online. Shrink photos to the size you need for free, with no signup.",
+      "heading": "Compress Image to 20KB",
+      "sub": "Tiny uploads for exam portals, ID forms and signature fields that have strict size caps. Upload, compress and download in seconds."
+    },
+    "compress-image-to-50kb": {
+      "group": "compress",
+      "title": "Compress Image to 50KB: Reduce Photo Size Online",
+      "description": "Compress JPG, PNG or GIF images to 50KB or less online. Shrink photos to the size you need for free, with no signup.",
+      "heading": "Compress Image to 50KB",
+      "sub": "Application forms and government portals often cap photos at 50KB; hit the limit without ruining clarity. Upload, compress and download in seconds."
+    },
+    "compress-image-to-100kb": {
+      "group": "compress",
+      "title": "Compress Image to 100KB: Reduce Photo Size Online",
+      "description": "Compress JPG, PNG or GIF images to 100KB or less online. Shrink photos to the size you need for free, with no signup.",
+      "heading": "Compress Image to 100KB",
+      "sub": "A popular limit for passport photos, resumes and job-portal uploads. Upload, compress and download in seconds."
+    },
+    "compress-image-to-200kb": {
+      "group": "compress",
+      "title": "Compress Image to 200KB: Reduce Photo Size Online",
+      "description": "Compress JPG, PNG or GIF images to 200KB or less online. Shrink photos to the size you need for free, with no signup.",
+      "heading": "Compress Image to 200KB",
+      "sub": "Meet upload limits on forms and marketplaces while keeping photos crisp enough to read. Upload, compress and download in seconds."
+    },
+    "compress-image-to-500kb": {
+      "group": "compress",
+      "title": "Compress Image to 500KB: Reduce Photo Size Online",
+      "description": "Compress JPG, PNG or GIF images to 500KB or less online. Shrink photos to the size you need for free, with no signup.",
+      "heading": "Compress Image to 500KB",
+      "sub": "Light enough for fast pages and email, sharp enough for product shots and blog images. Upload, compress and download in seconds."
+    },
+    "compress-image-to-1mb": {
+      "group": "compress",
+      "title": "Compress Image to 1MB: Reduce Photo Size Online",
+      "description": "Compress JPG, PNG or GIF images to 1MB or less online. Shrink photos to the size you need for free, with no signup.",
+      "heading": "Compress Image to 1MB",
+      "sub": "Bring large camera photos down to under a megabyte for sharing and uploads. Upload, compress and download in seconds."
+    },
+    "compress-image-to-2mb": {
+      "group": "compress",
+      "title": "Compress Image to 2MB: Reduce Photo Size Online",
+      "description": "Compress JPG, PNG or GIF images to 2MB or less online. Shrink photos to the size you need for free, with no signup.",
+      "heading": "Compress Image to 2MB",
+      "sub": "Slim down high-resolution images to fit under a typical 2MB upload limit. Upload, compress and download in seconds."
+    },
+    "compress-image-for-email": {
+      "group": "compress",
+      "title": "Compress Images for Email: Send Photos Without Bounces",
+      "description": "Shrink images so they fit in email attachments. Compress photos in bulk without visible quality loss, free and online.",
+      "heading": "Compress Images for Email",
+      "sub": "Avoid attachment size errors by slimming your pictures down before you hit send."
+    },
+    "compress-image-for-website": {
+      "group": "compress",
+      "title": "Compress Images for Website: Speed Up Page Load Time",
+      "description": "Optimize images for faster web pages. Compress JPG, PNG, SVG and GIF files in bulk to improve load time and Core Web Vitals.",
+      "heading": "Compress Images for Your Website",
+      "sub": "Lighter images mean faster pages and better rankings. Optimize your whole media library in a few clicks."
+    },
+    "compress-image-for-whatsapp": {
+      "group": "compress",
+      "title": "Compress Images for WhatsApp: Share Photos Faster",
+      "description": "Compress photos before sending them on WhatsApp to save data and upload faster. Free online compressor, no signup needed.",
+      "heading": "Compress Images for WhatsApp",
+      "sub": "Send pictures faster on slow connections and save mobile data by shrinking them before you share."
+    },
+    "resize-image-for-instagram": {
+      "group": "resize",
+      "title": "Resize Image for Instagram: Perfect Post & Story Sizes",
+      "description": "Resize photos to fit Instagram posts and stories. Set exact pixel dimensions online for free, with no signup or software.",
+      "heading": "Resize Images for Instagram",
+      "sub": "Fit your pictures to square, portrait and story dimensions so nothing gets cropped awkwardly."
+    },
+    "resize-image-for-youtube-thumbnail": {
+      "group": "resize",
+      "title": "Resize Image for YouTube Thumbnail: 1280x720 Online",
+      "description": "Resize any image to 1280x720 for YouTube thumbnails. Set exact pixels online for free, ready to upload in seconds.",
+      "heading": "Resize Images for YouTube Thumbnails",
+      "sub": "Get the standard 1280 by 720 thumbnail size in one step, without opening a design app."
+    },
+    "resize-image-for-linkedin-banner": {
+      "group": "resize",
+      "title": "Resize Image for LinkedIn Banner: 1584x396 Online",
+      "description": "Resize pictures to a LinkedIn banner size of 1584x396 pixels. Fast, free and easy, with no software or account required.",
+      "heading": "Resize Images for LinkedIn Banners",
+      "sub": "Make your profile header fit the banner area so your design looks sharp and intentional."
+    },
+    "resize-image-for-x-header": {
+      "group": "resize",
+      "title": "Resize Image for X (Twitter) Header: 1500x500 Online",
+      "description": "Resize an image to 1500x500 for your X or Twitter header. Free online resizer with exact pixel control and no signup.",
+      "heading": "Resize Images for X Headers",
+      "sub": "Set the wide header size your profile needs so your banner is not squashed or cropped."
+    },
+    "resize-image-to-1920x1080": {
+      "group": "resize",
+      "title": "Resize Image to 1920x1080: Full HD Image Resizer",
+      "description": "Resize any picture to 1920x1080 pixels online. Create Full HD wallpapers, slides and thumbnails for free, in seconds.",
+      "heading": "Resize Image to 1920x1080",
+      "sub": "Match the Full HD resolution used by monitors, presentations and video thumbnails."
+    },
+    "resize-image-to-1080x1920": {
+      "group": "resize",
+      "title": "Resize Image to 1080x1920: Vertical Story & Reel Size",
+      "description": "Resize pictures to 1080x1920 for vertical stories and reels. Set the exact size online for free, with no signup required.",
+      "heading": "Resize Image to 1080x1920",
+      "sub": "Prepare tall, full-screen images for stories, reels and mobile wallpapers."
+    },
+    "resize-image-to-512x512": {
+      "group": "resize",
+      "title": "Resize Image to 512x512: App Icon & Avatar Resizer",
+      "description": "Resize images to 512x512 pixels for app icons, avatars and profile pictures. Free online square resizer with no signup.",
+      "heading": "Resize Image to 512x512",
+      "sub": "Create square icons and avatars at the size most platforms ask for."
+    },
+    "resize-image-by-percentage": {
+      "group": "resize",
+      "title": "Resize Image by Percentage: Scale Photos Up or Down",
+      "description": "Scale images by percentage online. Reduce photos to 50 percent or enlarge them in bulk, keeping the aspect ratio. Free.",
+      "heading": "Resize Images by Percentage",
+      "sub": "Shrink or enlarge pictures proportionally without calculating pixel dimensions yourself."
+    },
+    "resize-image-in-pixels": {
+      "group": "resize",
+      "title": "Resize Image in Pixels: Set Exact Width and Height",
+      "description": "Resize images to exact pixel dimensions online. Enter width and height, keep the ratio or break it, and batch process for free.",
+      "heading": "Resize Images in Pixels",
+      "sub": "Type the exact width and height you need and apply it to every image in the batch."
+    },
+    "crop-image-to-square": {
+      "group": "crop",
+      "title": "Crop Image to Square: Free 1:1 Photo Cropper",
+      "description": "Crop pictures to a perfect square online. Create 1:1 images for profile photos and social posts, free and with no signup.",
+      "heading": "Crop Image to a Square",
+      "sub": "Get a clean 1:1 crop for avatars, product thumbnails and feed posts in a couple of clicks."
+    },
+    "crop-image-16-9": {
+      "group": "crop",
+      "title": "Crop Image to 16:9: Free Widescreen Photo Cropper",
+      "description": "Crop images to a 16:9 widescreen ratio online. Ideal for video thumbnails, banners and slides. Free and easy to use.",
+      "heading": "Crop Image to 16:9",
+      "sub": "Frame pictures in the widescreen ratio used by video, monitors and presentation slides."
+    },
+    "crop-image-4-3": {
+      "group": "crop",
+      "title": "Crop Image to 4:3: Free Classic Ratio Photo Cropper",
+      "description": "Crop photos to a 4:3 aspect ratio online. Match the classic camera and slideshow format in seconds. Free, no registration.",
+      "heading": "Crop Image to 4:3",
+      "sub": "Apply the familiar 4:3 frame used by many cameras, tablets and older presentation formats."
+    },
+    "crop-profile-picture": {
+      "group": "crop",
+      "title": "Crop Profile Picture Online: Free Avatar Cropper",
+      "description": "Crop your profile picture to center your face and fit any platform. Free online avatar cropper with no signup needed.",
+      "heading": "Crop Your Profile Picture",
+      "sub": "Center your face, trim the background and get a profile photo that looks great at small sizes."
+    },
+    "crop-screenshot": {
+      "group": "crop",
+      "title": "Crop Screenshot Online: Trim Screenshots in Seconds",
+      "description": "Crop screenshots to keep only what matters. Cut away toolbars and clutter online for free, with pixel-precise control.",
+      "heading": "Crop a Screenshot",
+      "sub": "Remove browser bars, menus and unwanted edges from screenshots before you share them."
+    },
+    "crop-image-by-pixels": {
+      "group": "crop",
+      "title": "Crop Image by Pixels: Exact Coordinates Image Cropper",
+      "description": "Crop images using exact pixel coordinates. Enter X, Y, width and height for a precise cut online, free and with no signup.",
+      "heading": "Crop Image by Pixels",
+      "sub": "Define the rectangle with precise pixel values when drag-and-drop is not accurate enough."
+    },
+    "rotate-image-90-degrees": {
+      "group": "rotate",
+      "title": "Rotate Image 90 Degrees: Turn Photos Left or Right",
+      "description": "Rotate images 90 degrees clockwise or counterclockwise online. Fix sideways photos in bulk, free and with no signup.",
+      "heading": "Rotate Image 90 Degrees",
+      "sub": "Turn pictures a quarter turn in either direction and fix many files at once."
+    },
+    "rotate-image-180-degrees": {
+      "group": "rotate",
+      "title": "Rotate Image 180 Degrees: Flip Upside-Down Photos",
+      "description": "Rotate images 180 degrees to fix upside-down photos. Bulk rotate JPG, PNG and GIF files online for free in seconds.",
+      "heading": "Rotate Image 180 Degrees",
+      "sub": "Flip upside-down pictures back to normal, one image or an entire batch at a time."
+    },
+    "rotate-landscape-images": {
+      "group": "rotate",
+      "title": "Rotate Landscape Images in Bulk: Only Wide Photos",
+      "description": "Rotate only the landscape images in a batch and leave portrait photos alone. Free online bulk rotator, no signup.",
+      "heading": "Rotate Only Landscape Images",
+      "sub": "Apply a rotation to wide pictures only, so mixed folders do not need to be sorted by hand."
+    },
+    "rotate-portrait-images": {
+      "group": "rotate",
+      "title": "Rotate Portrait Images in Bulk: Only Tall Photos",
+      "description": "Rotate only the portrait images in a batch and keep landscape pictures as they are. Free bulk rotator, no registration.",
+      "heading": "Rotate Only Portrait Images",
+      "sub": "Target tall pictures in a mixed batch and rotate just those, saving time on large folders."
+    },
+    "fix-sideways-photos": {
+      "group": "rotate",
+      "title": "Fix Sideways Photos Online: Rotate Phone Pictures",
+      "description": "Fix photos that appear sideways after uploading from your phone or camera. Rotate them in bulk, free and in a few clicks.",
+      "heading": "Fix Sideways Photos",
+      "sub": "Correct pictures that show up rotated after transfer, so every photo faces the right way."
+    }
+  },
+  "groupLabels": {
+    "compress": "Compress",
+    "resize": "Resize",
+    "crop": "Crop",
+    "rotate": "Rotate",
+    "convert-jpg": "Convert to JPG",
+    "convert-png": "Convert to PNG",
+    "convert-webp": "Convert to WEBP",
+    "convert-gif": "Convert to GIF",
+    "convert-avif": "Convert to AVIF",
+    "convert-raw": "Convert RAW to JPG",
+    "convert-from-jpg": "Convert from JPG",
+    "html-to-image": "HTML to Image",
+    "remove-bg": "Remove Background",
+    "upscale": "Upscale",
+    "watermark": "Watermark",
+    "meme": "Meme Generator",
+    "blur-face": "Blur Faces",
+    "photo-editor": "Photo Editor",
+    "images-to-pdf": "Images to PDF"
+  }
+}
